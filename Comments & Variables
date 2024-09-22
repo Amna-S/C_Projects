@@ -1,0 +1,148 @@
+//C++ Comments:
+//single line Comments
+//how are you?
+//multi lined comments:
+/*
+Hi 
+how are you
+*/
+
+/*
+#include <iostream>
+int main()
+{
+    int myNum; declaration
+    myNum=10; assignment
+    std::cout<<myNum; printing the result 
+    return 0;
+}
+#include <iostream>
+int main()
+{
+    int mynum=23;
+    std::cout<<mynum;
+    return 0;
+}
+#include <iostream>
+int main()
+{
+    int myAge=12;
+    int myNum=23;
+    std::cout<<myNum<<std::endl;
+    std::cout<<myAge<<std::endl;
+    std::cout<<myNum + myAge;
+    return 0;
+}
+#include <iostream>
+int main()
+{
+    int myAge=23;
+    std::cout<<"I am "<<myAge<<" years old.";
+    return 0;
+}
+#include <iostream>
+int main()
+{
+    int myNum1=200;
+    int myNum2=100;
+    int sum=myNum1+myNum2;
+    std::cout<<sum;
+    return 0;
+}
+#include <iostream>
+int main()
+{
+    int a=11,b=12,c=13;
+    std::cout<<a+b+c;
+    return 0;
+}*/
+#include <iostream>
+int main()
+{
+    int a,b,c;
+    a=b=c=10;
+    std::cout<<a<<b<<c<<std::endl;
+    std::cout<<a+b+c<<std::endl;
+    std::cout<<a+b-c;
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
